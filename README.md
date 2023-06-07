@@ -15,10 +15,7 @@ Print the details of the employees.
 ### Step 5: 
 End the program.
 ## PROGRAM:
-~~~
-Name   : H.Syed Abdul Wasih
-Reg No : 212221240057
-~~~
+
 ~~~
 class Employee{
     String Name;
